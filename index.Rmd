@@ -1,0 +1,42 @@
+---
+title: "InLaLi2"
+subtitle: "Indonesian Languages and Linguistics 2:<br>Linguistic diversity of Indonesia<br>12-14 August 2026, Yogyakarta, Indonesia"
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+library(knitr)
+library(readxl)
+library(tidyverse)
+library(leaflet)
+library(DT)
+library(hms)
+
+opts_chunk$set(echo = FALSE)
+
+```
+
+Six years after its [inaugural meeting in 2020](https://indoling.com/inlali), the second conference of the **Indonesian Languages and Linguistics** (**InLaLi2**) will take place in Yogyakarta, under the theme **linguistic diversity of Indonesia**.
+
+# Information
+
+ * Date: 12-14 August 2026
+ * Location: [Universitas Sanata Dharma](https://www.usd.ac.id/), Yogyakarta, Indonesia
+ * Registration fee: 100,000 IDR
+ * Excursion: Group tour to Borobudur after the conference
+ * Language: English and Indonesian
+   * A presentation can also be given in the Indonesian Sign Language (*Bahasa Isyarat Indonesia*, BISINDO), in which case an interpreter will be hired for.
+
+# Call for papers
+We invite reports of scientific research on any linguistic variety within Indonesian borders. In light of the conference theme, we especially welcome topics that highlight linguistic diversity. 
+
+## Format
+ * Language: English or Indonesian
+ * Deadline: From **1 April** until **31 May** on a rolling basis: Results will be notified within two weeks after submission
+ * Font: Times New Roman 12pt
+ * Margin: 2.5cm
+ * Paper size: A4
+ * Length: Maximum two pages, including everything
+ 
+## Submission
+Please send your abstract in pdf format to Ian Joo at [joo@res.otaru-uc.ac.jp](mailto:joo@res.otaru-uc.ac.jp)

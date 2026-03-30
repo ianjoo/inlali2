@@ -1,0 +1,10 @@
+name: "InLaLi2"
+title: "InLaLi2"
+theme: theme.css
+description: |
+  Indonesian Languages and Linguistics 2: Linguistic diversity of Indonesia
+output_dir: "docs"
+output: distill::distill_article
+
+include:
+  - index.Rmd
