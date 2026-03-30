@@ -1,6 +1,6 @@
 ---
 title: "InLaLi2"
-subtitle: "Indonesian Languages and Linguistics 2:<br>Linguistic diversity of Indonesia<br>12-14 August 2026, Yogyakarta, Indonesia"
+subtitle: "Indonesian Languages and Linguistics 2"
 site: distill::distill_website
 ---
 
