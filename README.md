@@ -1,1 +1,1 @@
-北海道言語科学会のサイトです。
+Indonesian Languages and Linguistics 2
