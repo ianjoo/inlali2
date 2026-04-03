@@ -18,17 +18,44 @@ opts_chunk$set(echo = FALSE)
 
 Six years after its [inaugural meeting in 2020](https://indoling.com/inlali), the second conference of the **Indonesian Languages and Linguistics** (**InLaLi2**) will take place in Yogyakarta, under the theme **linguistic diversity of Indonesia**.
 
+# Background
+
+The Republic of Indonesia is home to hundreds of languages. While most of them belong to the Austronesian family, a sizable number of non-Austronesian (aka "Papuan") languages dominate the eastern part of the country, not to mention the coexistence of different sign languages. Much of this linguistic landscape still await to be investigated by both local and international linguists. As linguistics, like any other field of science, is a collaborative endeavour, it is therefore advantageous for Indonesianists to gather in the country and share their ongoing projects throughout the archipelago. In this spirit, we invite linguists all over the world to visit Yogyakarta this summer to engage in fruitful academic conversations on the linguistic diversity of Indonesia.
+
 # Information
 
  * Date: 12-14 August 2026
  * Location: [Universitas Sanata Dharma](https://www.usd.ac.id/), Yogyakarta, Indonesia
  * Registration fee: 100,000 IDR
- * Excursion: Group tour to Borobudur after the conference
  * Language: English and Indonesian
    * A presentation can also be given in the Indonesian Sign Language (*Bahasa Isyarat Indonesia*, BISINDO), in which case an interpreter will be hired for.
 
+# Venue
+
+**Yogyakarta** is a historic city in central Java, renowned for its deep connections to traditional Javanese culture and its proximity to numerous heritage sites. On the last day of the conference, we will organize a group tour to **Borobudur**, a magnificent thousand-year-old temple representing the nation's rich Buddhist past.
+
+**Universitas Sanata Dharma** is a leading private university in Yogyakarta, known for its strong commitment to academic excellence and its vibrant intellectual community. With modern facilities and a welcoming campus environment, it provides an ideal setting for scholarly exchange. Located in the heart of the city, the university offers convenient access to Yogyakarta’s rich cultural heritage, making it a fitting venue for discussions on the linguistic diversity of Indonesia.
+
 # Call for papers
-We invite reports of scientific research on any linguistic variety within Indonesian borders. In light of the conference theme, we especially welcome topics that highlight linguistic diversity. 
+We invite reports of scientific research on any linguistic variety within Indonesian borders. Possible topics include:
+
+ * Phonetics
+ * Phonology
+ * Syntax
+ * Morphology
+ * Semantics
+ * Pragmatics
+ * Sociolinguistics
+ * Psycholinguistics
+ * Neurolinguistics
+ * Applied linguistics
+ * Historical linguistics
+ * Descriptive linguistics
+ * Linguistic typology
+ * Linguistic anthropology
+ * Other related fields
+
+In light of the conference theme, we especially welcome topics that highlight linguistic diversity. 
 
 ## Format
  * Language: English or Indonesian
