@@ -67,3 +67,8 @@ In light of the conference theme, we especially welcome topics that highlight li
  
 ## Submission
 Please send your abstract in pdf format to Ian Joo at [joo@res.otaru-uc.ac.jp](mailto:joo@res.otaru-uc.ac.jp)
+
+# Organizers
+
+ * [Ian Joo](https://ianjoo.github.io) ([Otaru University of Commerce](https://english.otaru-uc.ac.jp))
+ * [Dalan Mehuli Perangin-Angin](https://www.usd.ac.id/detail_dosen.php?id=02253) ([Universitas Sanata Dharma](https://www.usd.ac.id))

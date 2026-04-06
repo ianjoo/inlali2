@@ -4,7 +4,14 @@ theme: theme.css
 description: |
   Indonesian Languages and Linguistics 2: Linguistic diversity of Indonesia
 output_dir: "docs"
+navbar:
+  right:
+    - text: "EN"
+      href: index.html
+    - text: "ID"
+      href: Indonesia.html
 output: distill::distill_article
 
 include:
   - index.Rmd
+  - Indonesia.Rmd
