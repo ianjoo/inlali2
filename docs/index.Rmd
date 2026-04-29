@@ -29,6 +29,24 @@ The Republic of Indonesia is home to hundreds of languages. While most of them b
  * Registration fee: 500,000 IDR (250,000 IDR for students), to be paid on site during the opening session
  * Language: English and Indonesian
    * A presentation can also be given in the Indonesian Sign Language (*Bahasa Isyarat Indonesia*, BISINDO), in which case an interpreter will be hired for.
+   
+# Invited speakers
+
+## Prof. Atsuko Utsumi
+![Meisei University](Utsumi.JPG){width=40%}
+
+## Dr. Ekarina
+
+![Atma Jaya Catholic University of Indonesia](Ekarina.jpeg){width=30%}
+
+## Dr. Nurenzia Yannuar
+
+![State University of Malang](Yannuar.jpg){width=30%}
+
+
+## Prof. Ian Joo
+
+![Otaru University of Commerce](Joo.png){width=30%}
 
 # Venue
 
