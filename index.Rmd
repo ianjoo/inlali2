@@ -30,7 +30,7 @@ The Republic of Indonesia is home to hundreds of languages. While most of them b
  * Language: English and Indonesian
    * A presentation can also be given in the Indonesian Sign Language (*Bahasa Isyarat Indonesia*, BISINDO), in which case an interpreter will be hired for.
    
-# Invited speakers
+# Keynote speakers
 
 ## Prof. Atsuko Utsumi
 ![Meisei University](Utsumi.JPG){width=40%}
@@ -47,6 +47,8 @@ The Republic of Indonesia is home to hundreds of languages. While most of them b
 ## Prof. Ian Joo
 
 ![Otaru University of Commerce](Joo.png){width=30%}
+
+(More keynote speakers to be confirmed)
 
 # Venue
 
