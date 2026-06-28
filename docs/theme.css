@@ -116,18 +116,18 @@ d-title h1 {
 }
 
 d-title {
-  background-image: url(Borobudur.jpg);
+  background-image: url(ContrastMap.png);
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 130%;
   background-position: center;
   height: 300px;
   color: white;
   font-family: Arial, sans-serif;
   text-shadow: 
-    -1px -1px 5px orange,  
-     1px -1px 5px orange,
-    -1px  1px 5px orange,
-     1px  1px 5px orange;
+    -1px -1px 5px red,  
+     1px -1px 5px red,
+    -1px  1px 5px red,
+     1px  1px 5px red;
   font-size: 24px;
   font-weight: 200;
 }

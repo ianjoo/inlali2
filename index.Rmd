@@ -1,6 +1,5 @@
 ---
-title: "InLaLi2"
-subtitle: "Indonesian Languages and Linguistics 2"
+title: "The First International Conference on Lectometry"
 site: distill::distill_website
 ---
 
@@ -16,92 +15,15 @@ opts_chunk$set(echo = FALSE)
 
 ```
 
-Six years after its [inaugural meeting in 2020](https://indoling.com/inlali), the second conference of the **Indonesian Languages and Linguistics** (**InLaLi2**) will take place in Yogyakarta, under the theme **linguistic diversity of Indonesia**.
+Background: Phonological distances between Eurasian lects measured based on Phonotacticon 1.0 (Joo & Hsu 2025). Redder color represents closer distance.
 
-# Background
+# About
 
-The Republic of Indonesia is home to hundreds of languages. While most of them belong to the Austronesian family, a sizable number of non-Austronesian (aka "Papuan") languages are used in the eastern part of the country, not to mention the coexistence of different sign languages. Much of this linguistic landscape still await to be investigated by both local and international linguists. As linguistics, like any other field of science, is a collaborative endeavour, it is therefore advantageous for Indonesianists to gather in the country and share their ongoing projects throughout the archipelago. In this spirit, we invite linguists all over the world to visit Yogyakarta this summer to engage in fruitful academic conversations on the linguistic diversity of Indonesia.
+The **First International Conference on Lectometry** (LectoConf1) is a conference dedicated to the art of measuring distance (the quantifiable degree of dissimilarity) between lects (linguistic varieties).
 
-# Information
+# Plenary speakers
 
- * Date: 12-14 August 2026
- * Location: [Universitas Sanata Dharma](https://www.usd.ac.id/), Yogyakarta, Indonesia
- * Registration fee: 500,000 IDR (250,000 IDR for students), to be paid on site during the opening session
- * Language: English and Indonesian
-   * A presentation can also be given in the Indonesian Sign Language (*Bahasa Isyarat Indonesia*, BISINDO), in which case an interpreter will be hired for.
-   
-# Keynote speakers
-
-## Prof. Atsuko Utsumi
-![Meisei University](Utsumi.JPG){width=40%}
-
-## Dr. Ekarina
-
-![Atma Jaya Catholic University of Indonesia](Ekarina.jpeg){width=30%}
-
-## Dr. Nurenzia Yannuar
-
-![State University of Malang](Yannuar.jpg){width=30%}
-
-
-## Prof. Ian Joo
-
-![Otaru University of Commerce](Joo.png){width=30%}
-
-(More keynote speakers to be confirmed)
-
-# Venue
-
-**Yogyakarta** is a historic city in central Java, renowned for its deep connections to traditional Javanese culture and its proximity to numerous heritage sites. On the last day of the conference, we will organize a group tour to **Borobudur**, a magnificent thousand-year-old temple representing the nation's rich Buddhist past.
-
-**Universitas Sanata Dharma** is a leading private university in Yogyakarta, known for its strong commitment to academic excellence and its vibrant intellectual community. With modern facilities and a welcoming campus environment, it provides an ideal setting for scholarly exchange. Located in the heart of the city, the university offers convenient access to Yogyakarta’s rich cultural heritage, making it a fitting venue for discussions on the linguistic diversity of Indonesia.
-
-The conference will be held at the [Faculty of Letters of Universitas Sanata Dharma](https://web.usd.ac.id/fakultas/sastra).
+ * [**Szeto** Pui Yiu](https://pyszeto.wixsite.com/home) (University of Hong Kong)
+ * [Hedvig **Skirgård**](https://sites.google.com/site/hedvigskirgard) (Max Planck Institute for Evolutionary Anthropology)
 
 # Call for papers
-We invite reports of scientific research on any linguistic variety within Indonesian borders. Possible topics include:
-
- * Phonetics
- * Phonology
- * Syntax
- * Morphology
- * Semantics
- * Pragmatics
- * Sociolinguistics
- * Psycholinguistics
- * Neurolinguistics
- * Applied linguistics
- * Historical linguistics
- * Descriptive linguistics
- * Linguistic typology
- * Linguistic anthropology
- * Other related fields
-
-In light of the conference theme, we especially welcome topics that highlight linguistic diversity. 
-
-## Format
- * Language: English or Indonesian
- * Deadline: From **1 April** until **31 May** on a rolling basis: Results will be notified within two weeks after submission
-   * Note: **EXTENDED UNTIL 22 JUNE**
- * Font: Times New Roman 12pt
- * Margin: 2.5cm
- * Paper size: A4
- * Length: Maximum two pages, including everything
- 
-## Submission
-Please send your abstract in pdf format to Ian Joo at [joo@res.otaru-uc.ac.jp](mailto:joo@res.otaru-uc.ac.jp)
-
-# Recommended accommodations
-
- * [Embe-Enem Homestay](https://embehomestay.com/) 
- * [Yellow Star Hotel](https://www.yellowstar.co.id/) 
- * [Loman Park Hotel](https://lomanparkhotel.com/)
-
-# Organizers
-
- * [Ian Joo](https://ianjoo.github.io) (Otaru University of Commerce)
- * [Dalan Mehuli Perangin-Angin](https://www.usd.ac.id/detail_dosen.php?id=02253) (Universitas Sanata Dharma)
- * [Katharina E. Sukamto](https://scholar.google.com/citations?user=bki4PHgAAAAJ) (Atma Jaya Catholic University)
- * [Gede Primahadi Rajeg](https://scholar.google.com/citations?user=ucWpoVEAAAAJ) (Udayana University)
- * [Nurenzia Yannuar](https://linguistics-fib.ub.ac.id/nurenzia-yannuar-ph-d/) (Universitas Negeri Malang)
- * [Nazarudin](https://scholar.google.com/citations?user=Nu-j08wAAAAJ) (Universitas Indonesia)
