@@ -1,9 +1,15 @@
-name: "LectoConf1"
-title: "LectoConf1"
+name: "InLaLi2"
+title: "InLaLi2"
 theme: theme.css
 description: |
-  The First International Conference on Lectometry
+  Indonesian Languages and Linguistics 2: Linguistic diversity of Indonesia
 output_dir: "docs"
+navbar:
+  right:
+    - text: "EN"
+      href: index.html
+    - text: "ID"
+      href: id.html
 output: distill::distill_article
 
 include:

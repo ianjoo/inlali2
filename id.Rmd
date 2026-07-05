@@ -82,6 +82,10 @@ Mengingat tema konferensi, kami sangat menyambut topik yang menyoroti keragaman 
 
  * Bahasa: Inggris atau Indonesia
  * Batas Waktu: Mulai **1 April** hingga **31 Mei** secara bertahap: Hasil akan diberitahukan dalam waktu dua minggu setelah pengiriman
+<<<<<<< HEAD
+=======
+   * Catatan: **DIPERPANJANG HINGGA 22 JUNI**
+>>>>>>> parent of 96cf6e8 (Create)
  * Font: Times New Roman 12pt
  * Margin: 2,5 cm
  * Ukuran Kertas: A4
