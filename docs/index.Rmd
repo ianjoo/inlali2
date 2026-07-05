@@ -27,3 +27,51 @@ The **First International Conference on Lectometry** (LectoConf1) is a conferenc
  * [Hedvig **Skirgård**](https://sites.google.com/site/hedvigskirgard) (Max Planck Institute for Evolutionary Anthropology)
 
 # Call for papers
+<<<<<<< HEAD
+=======
+We invite reports of scientific research on any linguistic variety within Indonesian borders. Possible topics include:
+
+ * Phonetics
+ * Phonology
+ * Syntax
+ * Morphology
+ * Semantics
+ * Pragmatics
+ * Sociolinguistics
+ * Psycholinguistics
+ * Neurolinguistics
+ * Applied linguistics
+ * Historical linguistics
+ * Descriptive linguistics
+ * Linguistic typology
+ * Linguistic anthropology
+ * Other related fields
+
+In light of the conference theme, we especially welcome topics that highlight linguistic diversity. 
+
+## Format
+ * Language: English or Indonesian
+ * Deadline: From **1 April** until **31 May** on a rolling basis: Results will be notified within two weeks after submission
+ * Font: Times New Roman 12pt
+ * Margin: 2.5cm
+ * Paper size: A4
+ * Length: Maximum two pages, including everything
+ 
+## Submission
+Please send your abstract in pdf format to Ian Joo at [joo@res.otaru-uc.ac.jp](mailto:joo@res.otaru-uc.ac.jp)
+
+# Recommended accommodations
+
+ * [Embe-Enem Homestay](https://embehomestay.com/) 
+ * [Yellow Star Hotel](https://www.yellowstar.co.id/) 
+ * [Loman Park Hotel](https://lomanparkhotel.com/)
+
+# Organizers
+
+ * [Ian Joo](https://ianjoo.github.io) (Otaru University of Commerce)
+ * [Dalan Mehuli Perangin-Angin](https://www.usd.ac.id/detail_dosen.php?id=02253) (Universitas Sanata Dharma)
+ * [Katharina E. Sukamto](https://scholar.google.com/citations?user=bki4PHgAAAAJ) (Atma Jaya Catholic University)
+ * [Gede Primahadi Rajeg](https://scholar.google.com/citations?user=ucWpoVEAAAAJ) (Udayana University)
+ * [Nurenzia Yannuar](https://linguistics-fib.ub.ac.id/nurenzia-yannuar-ph-d/) (Universitas Negeri Malang)
+ * [Nazarudin](https://scholar.google.com/citations?user=Nu-j08wAAAAJ) (Universitas Indonesia)
+>>>>>>> parent of cc330ac (Extension)
