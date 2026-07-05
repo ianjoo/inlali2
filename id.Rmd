@@ -27,7 +27,6 @@ Republik Indonesia adalah rumah bagi ratusan bahasa. Meskipun sebagian besar ter
 * Lokasi: [Universitas Sanata Dharma](https://www.usd.ac.id/), Yogyakarta, Indonesia
 * Biaya pendaftaran: 500.000 IDR (250.000 IDR untuk mahasiswa), pembayaran dilakukan di tempat selama sesi pembukaan.
 * Bahasa: Inggris dan Indonesia
-* Presentasi juga dapat diberikan dalam Bahasa Isyarat Indonesia (*Bahasa Isyarat Indonesia*, BISINDO), dalam hal ini penerjemah akan dipekerjakan.
 
 # Pembicara kunci
 
@@ -47,7 +46,6 @@ Republik Indonesia adalah rumah bagi ratusan bahasa. Meskipun sebagian besar ter
 
 ![Universitas Perdagangan Otaru](Joo.png){width=30%}
 
-(Pembicara kunci lainnya akan dikonfirmasi)
 
 # Tempat
 
@@ -82,10 +80,7 @@ Mengingat tema konferensi, kami sangat menyambut topik yang menyoroti keragaman 
 
  * Bahasa: Inggris atau Indonesia
  * Batas Waktu: Mulai **1 April** hingga **31 Mei** secara bertahap: Hasil akan diberitahukan dalam waktu dua minggu setelah pengiriman
-<<<<<<< HEAD
-=======
    * Catatan: **DIPERPANJANG HINGGA 22 JUNI**
->>>>>>> parent of 96cf6e8 (Create)
  * Font: Times New Roman 12pt
  * Margin: 2,5 cm
  * Ukuran Kertas: A4

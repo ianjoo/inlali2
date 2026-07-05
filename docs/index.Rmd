@@ -28,7 +28,6 @@ The Republic of Indonesia is home to hundreds of languages. While most of them b
  * Location: [Universitas Sanata Dharma](https://www.usd.ac.id/), Yogyakarta, Indonesia
  * Registration fee: 500,000 IDR (250,000 IDR for students), to be paid on site during the opening session
  * Language: English and Indonesian
-   * A presentation can also be given in the Indonesian Sign Language (*Bahasa Isyarat Indonesia*, BISINDO), in which case an interpreter will be hired for.
    
 # Keynote speakers
 
@@ -48,7 +47,6 @@ The Republic of Indonesia is home to hundreds of languages. While most of them b
 
 ![Otaru University of Commerce](Joo.png){width=30%}
 
-(More keynote speakers to be confirmed)
 
 # Venue
 
@@ -59,12 +57,6 @@ The Republic of Indonesia is home to hundreds of languages. While most of them b
 The conference will be held at the [Faculty of Letters of Universitas Sanata Dharma](https://web.usd.ac.id/fakultas/sastra).
 
 # Call for papers
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> parent of 96cf6e8 (Create)
-We invite reports of scientific research on any linguistic variety within Indonesian borders. Possible topics include:
 
  * Phonetics
  * Phonology
@@ -87,10 +79,7 @@ In light of the conference theme, we especially welcome topics that highlight li
 ## Format
  * Language: English or Indonesian
  * Deadline: From **1 April** until **31 May** on a rolling basis: Results will be notified within two weeks after submission
-<<<<<<< HEAD
-=======
    * Note: **EXTENDED UNTIL 22 JUNE**
->>>>>>> parent of 96cf6e8 (Create)
  * Font: Times New Roman 12pt
  * Margin: 2.5cm
  * Paper size: A4
@@ -112,9 +101,4 @@ Please send your abstract in pdf format to Ian Joo at [joo@res.otaru-uc.ac.jp](m
  * [Katharina E. Sukamto](https://scholar.google.com/citations?user=bki4PHgAAAAJ) (Atma Jaya Catholic University)
  * [Gede Primahadi Rajeg](https://scholar.google.com/citations?user=ucWpoVEAAAAJ) (Udayana University)
  * [Nurenzia Yannuar](https://linguistics-fib.ub.ac.id/nurenzia-yannuar-ph-d/) (Universitas Negeri Malang)
-<<<<<<< HEAD
  * [Nazarudin](https://scholar.google.com/citations?user=Nu-j08wAAAAJ) (Universitas Indonesia)
->>>>>>> parent of cc330ac (Extension)
-=======
- * [Nazarudin](https://scholar.google.com/citations?user=Nu-j08wAAAAJ) (Universitas Indonesia)
->>>>>>> parent of 96cf6e8 (Create)
