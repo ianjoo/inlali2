@@ -45,17 +45,24 @@ Republik Indonesia adalah rumah bagi ratusan bahasa. Meskipun sebagian besar ter
 ## Prof. Ian Joo
 
 ![Universitas Perdagangan Otaru](Joo.png){width=30%}
+## Dalan Mehuli Perangin Angin, S.S., Ph.D.
 
+![Universitas Sanata Dharma](Dalan.jpeg){width=30%}
 
 # Tempat
 
-**Yogyakarta** adalah kota bersejarah di Jawa Tengah, terkenal karena hubungannya yang erat dengan budaya tradisional Jawa dan kedekatannya dengan banyak situs warisan budaya. Pada hari terakhir konferensi, kami akan menyelenggarakan tur kelompok ke **Borobudur**, sebuah candi megah berusia seribu tahun yang mewakili kekayaan sejarah Buddha bangsa ini.
+**Yogyakarta** adalah kota bersejarah di Jawa Tengah, terkenal karena hubungannya yang erat dengan budaya tradisional Jawa dan kedekatannya dengan banyak situs warisan budaya. Setelah konferensi, kami akan mengadakan tur kelompok ke **Ratu Boko**, sebuah situs arkeologi yang memuat peninggalan Hindu dan Buddha, serta **Borobudur**, sebuah candi megah berusia seribu tahun yang mencerminkan kekayaan warisan Buddha di negeri ini.
 
 **Universitas Sanata Dharma** adalah universitas swasta terkemuka di Yogyakarta, yang dikenal karena komitmennya yang kuat terhadap keunggulan akademik dan komunitas intelektualnya yang dinamis. Dengan fasilitas modern dan lingkungan kampus yang ramah, universitas ini menyediakan tempat yang ideal untuk pertukaran ilmiah. Terletak di jantung kota, universitas ini menawarkan akses mudah ke warisan budaya Yogyakarta yang kaya, menjadikannya tempat yang tepat untuk diskusi tentang keragaman linguistik Indonesia.
 
 Konferensi ini akan diselenggarakan di [Fakultas Sastra Universitas Sanata Dharma](https://web.usd.ac.id/fakultas/sastra).
 
 # Undangan pengajuan makalah
+
+<details>
+
+<summary>Lihat pengajuan makalah (telah ditutup)</summary>
+
 Kami mengundang laporan penelitian ilmiah tentang berbagai variasi linguistik di Indonesia. Topik yang mungkin termasuk:
   
  * Fonetik
@@ -88,6 +95,24 @@ Mengingat tema konferensi, kami sangat menyambut topik yang menyoroti keragaman 
 
 ## Pengiriman
 Silakan kirim abstrak Anda dalam format pdf ke Ian Joo di [joo@res.otaru-uc.ac.jp](mailto:joo@res.otaru-uc.ac.jp)
+
+</details>
+
+# Program
+
+Program [[(pdf)](InLaLi2program.pdf)]{style="color:blue"}
+
+```{r}
+Program <- read_xlsx('InLaLi2program.xlsx') |> 
+    mutate(Day = format(Day, "%m-%d"),
+           Time = format(Time, "%H:%M"))
+
+datatable(Program, rownames = FALSE, options = list(scrollX = TRUE, pageLength = 30))
+```
+
+# Registrasi
+
+Silakan daftar di [sini](https://forms.gle/Ws6VveztC5bmmxWs7){style="color:blue"} sebelum 31 Juli.
 
 # Akomodasi yang direkomendasikan
 

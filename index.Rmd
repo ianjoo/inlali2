@@ -47,16 +47,25 @@ The Republic of Indonesia is home to hundreds of languages. While most of them b
 
 ![Otaru University of Commerce](Joo.png){width=30%}
 
+## Dalan Mehuli Perangin Angin, S.S., Ph.D.
+
+![Sanata Dharma University](Dalan.jpeg){width=30%}
 
 # Venue
 
-**Yogyakarta** is a historic city in central Java, renowned for its deep connections to traditional Javanese culture and its proximity to numerous heritage sites. On the last day of the conference, we will organize a group tour to **Borobudur**, a magnificent thousand-year-old temple representing the nation's rich Buddhist past.
+**Yogyakarta** is a historic city in central Java, renowned for its deep connections to traditional Javanese culture and its proximity to numerous heritage sites. After the conference, we will organize a group tour to **Ratu Boko**, an archaeological site of Hindu and Buddhist relics, and **Borobudur**, a magnificent thousand-year-old temple representing the nation's rich Buddhist past.
 
 **Universitas Sanata Dharma** is a leading private university in Yogyakarta, known for its strong commitment to academic excellence and its vibrant intellectual community. With modern facilities and a welcoming campus environment, it provides an ideal setting for scholarly exchange. Located in the heart of the city, the university offers convenient access to Yogyakarta’s rich cultural heritage, making it a fitting venue for discussions on the linguistic diversity of Indonesia.
 
 The conference will be held at the [Faculty of Letters of Universitas Sanata Dharma](https://web.usd.ac.id/fakultas/sastra).
 
 # Call for papers
+
+<details>
+
+<summary>See call for papers (now closed)</summary>
+
+We invite reports of scientific research on any linguistic variety within Indonesian borders. Possible topics include:
 
  * Phonetics
  * Phonology
@@ -87,6 +96,25 @@ In light of the conference theme, we especially welcome topics that highlight li
  
 ## Submission
 Please send your abstract in pdf format to Ian Joo at [joo@res.otaru-uc.ac.jp](mailto:joo@res.otaru-uc.ac.jp)
+
+</details>
+
+# Program
+
+Program [[(pdf)](InLaLi2program.pdf)]{style="color:blue"}
+
+```{r}
+Program <- read_xlsx('InLaLi2program.xlsx') |> 
+    mutate(Day = format(Day, "%m-%d"),
+           Time = format(Time, "%H:%M"))
+
+datatable(Program, rownames = FALSE, options = list(scrollX = TRUE, pageLength = 30))
+```
+
+# Registration
+
+Please register [here](https://forms.gle/Ws6VveztC5bmmxWs7){style="color:blue"} by 31 July.
+
 
 # Recommended accommodations
 
