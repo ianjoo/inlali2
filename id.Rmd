@@ -30,25 +30,21 @@ Republik Indonesia adalah rumah bagi ratusan bahasa. Meskipun sebagian besar ter
 
 # Pembicara kunci
 
-## Prof. Atsuko Utsumi
-![Universitas Meisei](Utsumi.JPG){width=40%}
+ * **Prof. Atsuko Utsumi** (Universitas Meisei) <br>
+![](Utsumi.JPG){width=30%}
 
-## Dr. Ekarina
+ * **Dr. Ekarina** (Universitas Atma Jaya Jakarta) <br>
+![](Ekarina.jpeg){width=30%}
 
-![Universitas Atma Jaya Jakarta](Ekarina.jpeg){width=30%}
-
-## Dr. Nurenzia Yannuar
-
-![Universitas Negeri Malang](Yannuar.jpg){width=30%}
+ * **Dr. Nurenzia Yannuar** (Universitas Negeri Malang)<br>
+![](Yannuar.jpg){width=30%}
 
 
-## Prof. Ian Joo
+ * **Prof. Ian Joo** (Universitas Perdagangan Otaru)<br>
+![](Joo.png){width=30%}
 
-![Universitas Perdagangan Otaru](Joo.png){width=30%}
-
-## Dalan Mehuli Perangin Angin, S.S., Ph.D.
-
-![Universitas Sanata Dharma](Dalan.jpeg){width=30%}
+ * **Dalan Mehuli Perangin Angin, S.S., Ph.D.** (Universitas Sanata Dharma)<br>
+![](Dalan.jpeg){width=30%}
 
 # Tempat
 

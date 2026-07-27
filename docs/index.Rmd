@@ -31,25 +31,20 @@ The Republic of Indonesia is home to hundreds of languages. While most of them b
    
 # Keynote speakers
 
-## Prof. Atsuko Utsumi
-![Meisei University](Utsumi.JPG){width=40%}
+ * **Prof. Atsuko Utsumi** (Meisei University)<br>
+![](Utsumi.JPG){width=30%}
 
-## Dr. Ekarina
+ * **Dr. Ekarina** (Atma Jaya Catholic University of Indonesia)<br>
+![](Ekarina.jpeg){width=30%}
 
-![Atma Jaya Catholic University of Indonesia](Ekarina.jpeg){width=30%}
+ * **Dr. Nurenzia Yannuar** (State University of Malang)<br>
+![](Yannuar.jpg){width=30%}
 
-## Dr. Nurenzia Yannuar
+ * **Prof. Ian Joo** (Otaru University of Commerce)<br>
+![](Joo.png){width=30%}
 
-![State University of Malang](Yannuar.jpg){width=30%}
-
-
-## Prof. Ian Joo
-
-![Otaru University of Commerce](Joo.png){width=30%}
-
-## Dalan Mehuli Perangin Angin, S.S., Ph.D.
-
-![Sanata Dharma University](Dalan.jpeg){width=30%}
+ * **Dalan Mehuli Perangin Angin, S.S., Ph.D.** (Sanata Dharma University)<br>
+![](Dalan.jpeg){width=30%}
 
 # Venue
 
