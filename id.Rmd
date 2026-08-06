@@ -104,7 +104,7 @@ Program <- read_xlsx('InLaLi2program.xlsx') |>
     mutate(Day = format(Day, "%m-%d"),
            Time = format(Time, "%H:%M"))
 
-datatable(Program, rownames = FALSE, options = list(scrollX = TRUE, pageLength = 30))
+datatable(Program, rownames = FALSE, options = list(scrollX = TRUE, pageLength = 40))
 ```
 
 # Registrasi
