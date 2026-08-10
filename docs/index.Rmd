@@ -101,9 +101,13 @@ Program [[(pdf)](InLaLi2program.pdf)]{style="color:blue"}
 ```{r}
 Program <- read_xlsx('InLaLi2program.xlsx') |> 
     mutate(Day = format(Day, "%m-%d"),
-           Time = format(Time, "%H:%M"))
+           Time = format(Time, "%H:%M"),
+           Authors = gsub(';', ';<br>', Authors))
 
-datatable(Program, rownames = FALSE, options = list(scrollX = TRUE, pageLength = 40))
+datatable(Program, 
+          rownames = FALSE, 
+          escape = FALSE,
+          options = list(scrollX = TRUE, pageLength = 40))
 ```
 
 # Registration
